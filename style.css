@@ -1,5 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway);
 
+
+<style media="screen">
+	nav { display: block; width: 640px; height: 90px; line-height: 40px; margin-top: 80px;}
+	a { display: inline-block; margin-right: 5px;  color: white; text-decoration: none; font-family: Avenir; background-color: blue; padding: 0px 90px;}
+
+
 body {
 	font-family: 'Raleway', sans-serif;
 }
@@ -43,4 +49,3 @@ article h2 {
 h1, article h3 {
 	color: #33AA44;
 }
-
