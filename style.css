@@ -3,7 +3,7 @@
 
 <style media="screen">
 	nav { display: block; width: 640px; height: 90px; line-height: 40px; margin-top: 80px;}
-	a { display: inline-block; margin-right: 5px;  color: white; text-decoration: none; font-family: Avenir; background-color: blue; padding: 0px 90px;}
+	a { display: inline-block; margin-right: 0px;  color: white; text-decoration: none; font-family: Avenir; background-color: blue; padding: 0px 54px; margin-bottom: 10px}
 
 
 body {
@@ -26,16 +26,25 @@ ul {
 
 
 
-article {
+article  {
 	background-color: #EEE;
+
 	width: 400px;
-	height: 350px;
+	height: 500px;
 	margin-right: 10px;
 	margin-bottom: 10px;
 	padding: 10px;
 	box-sizing: border-box;
 	float: left;
+
 }
+
+img {
+	padding: 1px;
+	margin-left: 10px;
+}
+
+
 
 article.match
 {
